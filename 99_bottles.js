@@ -8,6 +8,8 @@ function bottleSong(num) {
       break;
     }
   } 
+ 
 }
-console.log(bottleSong(3));
+(bottleSong(3)); //Because there is no return statement we do not need to console.log the fucntion. 
+                //Because of how this function is structured it will implicitly be called with just the fucntion name and argument. 
 
