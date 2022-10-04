@@ -9,5 +9,5 @@ function bottleSong(num) {
     }
   } 
 }
-console.log(bottleSong(2));
+console.log(bottleSong(3));
 
